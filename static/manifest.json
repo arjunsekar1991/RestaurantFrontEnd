@@ -1,6 +1,6 @@
 {
-  "name": "my-vue-app",
-  "short_name": "my-vue-app",
+  "name": "restaurantfrontend",
+  "short_name": "restaurantfrontend",
   "icons": [
     {
       "src": "/static/img/icons/android-chrome-192x192.png",
