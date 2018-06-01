@@ -1,12 +1,11 @@
 # restaurantfrontend
 
-> A Vue.js project
+#how to start the application
+#download npm from official site
+#run the below commands
 
-## Build Setup
-
-``` bash
-# install dependencies
-npm install
+npm install -g
+npm install vue
 
 # serve with hot reload at localhost:8080
 npm run dev
